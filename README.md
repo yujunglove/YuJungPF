@@ -24,3 +24,6 @@
 
 💜<b>피그마</b>
 https://www.figma.com/file/7cgPknNBXaAMVZw2BkTGQF/Yujung-Universe?node-id=0%3A1&t=HmwOERuYygXr5Qla-1
+
+
+![Yujung Universe](https://user-images.githubusercontent.com/120998460/219307277-69a5fbfe-a865-4890-be57-9fd6e62dab02.png)
