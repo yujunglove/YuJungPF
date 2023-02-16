@@ -27,3 +27,6 @@ https://www.figma.com/file/7cgPknNBXaAMVZw2BkTGQF/Yujung-Universe?node-id=0%3A1&
 
 
 ![Yujung Universe (1)](https://user-images.githubusercontent.com/120998460/219307563-6f4f554d-1188-4d73-bf36-ec1bdee0934b.png)
+
+
+ <embed src="http://www.youtube.com/v/https://youtu.be/3YqPKLZF_WU?version=2&amp;hl=ko_KR&autoplay=1&loop=1&amp;rel=0" type="application/x-shockwave-flash" width="300" height="25" allowscriptaccess="always" allowfullscreen="true"></embed>
