@@ -26,4 +26,4 @@
 https://www.figma.com/file/7cgPknNBXaAMVZw2BkTGQF/Yujung-Universe?node-id=0%3A1&t=HmwOERuYygXr5Qla-1
 
 
-![Yujung Universe](https://user-images.githubusercontent.com/120998460/219307277-69a5fbfe-a865-4890-be57-9fd6e62dab02.png)
+![Yujung Universe (1)](https://user-images.githubusercontent.com/120998460/219307563-6f4f554d-1188-4d73-bf36-ec1bdee0934b.png)
