@@ -21,3 +21,6 @@
 
 
 # 읽어주셔서 감사합니다!💜
+
+💜<b>피그마</b>
+https://www.figma.com/file/7cgPknNBXaAMVZw2BkTGQF/Yujung-Universe?node-id=0%3A1&t=HmwOERuYygXr5Qla-1
