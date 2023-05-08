@@ -1,6 +1,7 @@
 # 🙏 Yujung Universe Portfolio
 <h5>우주를 테마로 한 나만의 포트폴리오 웹 홈페이지 구현</h5>
 <h5>2023.2.06~2.10일까지 작업물</h5><br>
+🍀부트스트랩 및 다양한 템플릿을 사용하여 제 방식대로 수정하고 추가하였습니다.
 
 # 🌠STACK
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-E34F39?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-E14F39?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
